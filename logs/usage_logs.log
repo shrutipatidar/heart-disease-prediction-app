@@ -1,0 +1,4 @@
+2025-05-29 19:20:17,828 - INFO - New prediction input: {'age': 54, 'sex': 0, 'cp': 0, 'trestbps': 130, 'chol': 245, 'fbs': 0, 'restecg': 0, 'thalach': 150, 'exang': 0, 'oldpeak': 1.0, 'slope': 0, 'ca': 0, 'thal': 0}
+2025-05-29 19:20:17,973 - INFO - Prediction: 0, Probability: 0.0821, Confidence: Low confidence
+2025-05-29 19:28:36,898 - INFO - New prediction input: {'age': 54, 'sex': 0, 'cp': 0, 'trestbps': 130, 'chol': 245, 'fbs': 0, 'restecg': 0, 'thalach': 150, 'exang': 0, 'oldpeak': 1.0, 'slope': 0, 'ca': 0, 'thal': 0}
+2025-05-29 19:28:36,901 - INFO - Prediction: 0, Probability: 0.0821, Confidence: Low confidence

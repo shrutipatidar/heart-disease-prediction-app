@@ -1,0 +1,2 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,prediction,probability,timestamp
+50,1,0,120,200,1,0,150,1,1.0,0,0,1,0,0.19775388458103044,2025-05-29 19:26:27
