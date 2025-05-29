@@ -1,4 +1,4 @@
-❤️ Heart Disease Risk Prediction App
+## Heart Disease Risk Prediction App
 
 A Streamlit-based web application that predicts the risk of heart disease using a machine learning model. 
 The app allows users to input health parameters, see prediction results with confidence levels, and explore model explanations via SHAP visualizations.
@@ -18,8 +18,8 @@ Features
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/heart-disease-prediction.git
-   cd heart-disease-prediction
+git clone https://github.com/your-username/heart-disease-prediction.git
+cd heart-disease-prediction
 
 2. Create and activate a virtual environment (optional but recommended):
 
